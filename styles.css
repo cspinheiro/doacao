@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+}
+
+h1{
+	font-size: 65px;
+	color: white;
+	position: absolute;
+	margin-top: 150px;
+	width: 100%;
+	text-align: center;
+}
+
+h2{
+	font-size: 30px;
+	
+}
+
+img {
+	width: 100%;
+}
+
+div{
+	margin: 20px;
+	text-align: justify;
+}
+
+p{
+	font-size: 20px;
+	line-height: 30px;
+}
